@@ -16,6 +16,7 @@
     "onLanguage:typescriptreact"
   ],
   "main": "./dist/extension.js",
+  "repository": "https://github.com/adjfks/show-npm-version",
   "contributes": {
     "configuration": {
       "type": "object",
