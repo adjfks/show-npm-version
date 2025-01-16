@@ -1,0 +1,1 @@
+import { XView } from '@ctrip/xtaro';
