@@ -2,7 +2,8 @@
   "name": "show-npm-version",
   "displayName": "Show Npm Version",
   "description": "show the npm package version",
-  "version": "1.1.0",
+  "version": "1.1.1",
+  "icon": "./images/showNpmVersion.png",
   "engines": {
     "vscode": "^1.96.0"
   },
