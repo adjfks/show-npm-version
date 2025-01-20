@@ -20,7 +20,13 @@ This extension contributes the following settings:
 
 ### 1.0.0
 
-Initial release of ...
+- Support show latest version of package.
+- Support .js, .jsx, .ts, .tsx
+
+### 1.1.0
+
+- Support all file.
+- Support show version of package installed in node_modules.
 
 ---
 
