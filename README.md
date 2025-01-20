@@ -28,6 +28,10 @@ This extension contributes the following settings:
 - Support all file.
 - Support show version of package installed in node_modules.
 
+### 1.1.1
+
+- Add extension icon.
+
 ---
 
 **Enjoy!**
